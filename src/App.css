@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.cartQtyBtn {
+  margin-left: 10px;
+}
+
+.line-height {
+  line-height: 30px;
+}
+
+.mar-50 {
+  margin-right: 50px;
+}
